@@ -1,0 +1,26 @@
+{
+	"employee": [
+		{
+			"Name": "Subhajit Misra",
+			"Emp_id": "1",
+			"Mail_id": "sm@techcloudsolutions.in"
+		},
+		{
+			"Name": "Sudip Bej",
+			"Emp_id": "2",
+			"Mail_id": "sb@techcloudsolutions.in"
+		},
+		{
+
+			"Name": "Riya Samanta",
+			"Emp_id": "3",
+			"Mail_id": "rs@techcloudsolutions.in"
+		},
+		{
+			"Name": "Shoubhik Maity",
+			"Emp_id": "4",
+			"Mail_id": "shm@techcloudsolutions.in"
+		}
+
+	]
+}
